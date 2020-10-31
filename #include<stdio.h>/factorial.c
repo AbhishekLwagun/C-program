@@ -1,3 +1,5 @@
+// below code print the factorial number using recursion
+
 #include<stdio.h>
 #inlcude<conio.h>
 // declaring the function
