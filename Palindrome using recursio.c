@@ -32,3 +32,19 @@ int main()
 }
 
 
+int isPal(int aj)
+{
+    static int sum = 0;
+    if(aj != 0)
+    {
+        sum = sum *10 + aj%10;
+        isPal(aj/10);   // recursive call same as while(n!=0) using loop
+    }
+    else if(sum == n)
+        return 1;
+    else
+        return 0;
+}
+
+
+
