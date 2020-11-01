@@ -2,3 +2,5 @@
 
 //Below is a simple C program to find whether the user input number is a palindrome or not using recursion:
 
+#include<stdio.h>
+#include<conio.h>
