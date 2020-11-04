@@ -12,8 +12,4 @@
    	 
    	 Av= t/5;
    	 printf("average is%d",a);
-   	 
-   	 
-   	 
-
    }
