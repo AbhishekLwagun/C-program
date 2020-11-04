@@ -1,3 +1,5 @@
+// Below is the code to make fizzbuzz using c program.
+
 #include<stdio.h>
 #include<conio.h>
    main()
