@@ -11,6 +11,8 @@ int main()
     // A union variable t 
     union test t; 
   
+  // Study with Abhihek
+  
     t.x = 2; // t.y also gets value 2 
     printf("After making x = 2:\n x = %d, y = %d\n\n", 
            t.x, t.y); 
@@ -19,4 +21,5 @@ int main()
     printf("After making y = 10:\n x = %d, y = %d\n\n", 
            t.x, t.y); 
     return 0; 
-b 
+  //coding is fun
+}
