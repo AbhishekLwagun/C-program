@@ -5,7 +5,7 @@
 
 int main()
 {
-
+// Study with - Abhishek
     char ch;
     printf("Input a Character :  ");
     scanf("%c", &ch);
