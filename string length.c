@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Study with - Abhishek
 int main(){
 char fullName[50];
 int totalLength;
@@ -12,4 +12,6 @@ gets(fullName);
 totalLength = strlen(fullName);
 printf("The length of %s is %d",fullName, totalLength);
 return 0;
+  
+  //Coding is fun.
 }
