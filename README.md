@@ -32,4 +32,3 @@
 
 Start coding today for future.
 
-https://pbs.twimg.com/media/Epo3CI1XEAA0B1E?format=jpg&name=900x900
